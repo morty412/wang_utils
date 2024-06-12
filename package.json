@@ -1,0 +1,19 @@
+{
+  "name": "wang_utils",
+  "version": "1.0.0",
+  "description": "js的常见公共方法封装",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morty412/wang_utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morty412/wang_utils/issues"
+  },
+  "homepage": "https://github.com/morty412/wang_utils#readme"
+}
